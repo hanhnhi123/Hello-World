@@ -4,3 +4,4 @@ C:\Users\WIN\Documents\GitHub\Hello-World\Hello-World\Hello-World\Hello World\He
 C:\Users\WIN\Documents\GitHub\Hello-World\Hello-World\Hello-World\Hello World\Hello World\obj\x86\Debug\Hello World.csproj.GenerateResource.Cache
 C:\Users\WIN\Documents\GitHub\Hello-World\Hello-World\Hello-World\Hello World\Hello World\obj\x86\Debug\Hello World.exe
 C:\Users\WIN\Documents\GitHub\Hello-World\Hello-World\Hello-World\Hello World\Hello World\obj\x86\Debug\Hello World.pdb
+C:\Users\WIN\Documents\GitHub\Hello-World\Hello-World\Hello-World\Hello World\Hello World\obj\x86\Debug\Hello_World.frmHelloWorld.resources
